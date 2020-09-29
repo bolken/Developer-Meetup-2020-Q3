@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>lars-ake.bolk</sys_created_by>
+        <sys_created_on>2020-09-29 07:18:16</sys_created_on>
+        <sys_id>cc9675611b2750108409fc86cc4bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2d35f5211b2750108409fc86cc4bcb2c</sys_name>
+        <sys_package display_value="ServiceNow Developer Meetup 2020-Q3" source="x_cdltd_ccw1856">b5a05473908010107f4468f7a3a96f5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Developer Meetup 2020-Q3">b5a05473908010107f4468f7a3a96f5c</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_cc9675611b2750108409fc86cc4bcb88</sys_update_name>
+        <sys_updated_by>lars-ake.bolk</sys_updated_by>
+        <sys_updated_on>2020-09-29 07:18:16</sys_updated_on>
+        <test display_value="DevMeetup 2020-Q3 Pipeline Test">2d35f5211b2750108409fc86cc4bcb2c</test>
+        <test_suite display_value="DevMeetup 2020-Q3 Test Suite">0f663d611b2750108409fc86cc4bcbba</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>

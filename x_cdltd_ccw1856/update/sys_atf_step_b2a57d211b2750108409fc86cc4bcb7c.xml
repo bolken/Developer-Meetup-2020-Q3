@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open the 'CICD Pipeline' form with id 'CICD Pipeline: Normal'
+
+Warning: Using an existing record may cause unexpected behavior for this test&#13;
+See the documentation for Test Design Considerations</description>
+        <display_name>Open an Existing Record</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>lars-ake.bolk</sys_created_by>
+        <sys_created_on>2020-09-29 07:14:44</sys_created_on>
+        <sys_id>b2a57d211b2750108409fc86cc4bcb7c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Open an Existing Record</sys_name>
+        <sys_package display_value="ServiceNow Developer Meetup 2020-Q3" source="x_cdltd_ccw1856">b5a05473908010107f4468f7a3a96f5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Developer Meetup 2020-Q3">b5a05473908010107f4468f7a3a96f5c</sys_scope>
+        <sys_update_name>sys_atf_step_b2a57d211b2750108409fc86cc4bcb7c</sys_update_name>
+        <sys_updated_by>lars-ake.bolk</sys_updated_by>
+        <sys_updated_on>2020-09-29 07:14:53</sys_updated_on>
+        <table>x_cdltd_ccw1856_cicd_pipeline</table>
+        <test display_value="DevMeetup 2020-Q3 Pipeline Test">2d35f5211b2750108409fc86cc4bcb2c</test>
+        <timeout/>
+        <warning_message>Warning: Using an existing record may cause unexpected behavior for this test&#13;
+See the documentation for Test Design Considerations</warning_message>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=b2a57d211b2750108409fc86cc4bcb7c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b2a57d211b2750108409fc86cc4bcb7c</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>lars-ake.bolk</sys_created_by>
+        <sys_created_on>2020-09-29 07:14:44</sys_created_on>
+        <sys_id>1cc5fd211b2750108409fc86cc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>lars-ake.bolk</sys_updated_by>
+        <sys_updated_on>2020-09-29 07:14:44</sys_updated_on>
+        <value/>
+        <variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b2a57d211b2750108409fc86cc4bcb7c</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>lars-ake.bolk</sys_created_by>
+        <sys_created_on>2020-09-29 07:14:44</sys_created_on>
+        <sys_id>54c5fd211b2750108409fc86cc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>lars-ake.bolk</sys_updated_by>
+        <sys_updated_on>2020-09-29 07:14:44</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="">17d732a9c7a333005e5c45b881c26007</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b2a57d211b2750108409fc86cc4bcb7c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>lars-ake.bolk</sys_created_by>
+        <sys_created_on>2020-09-29 07:14:44</sys_created_on>
+        <sys_id>58c5fd211b2750108409fc86cc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>lars-ake.bolk</sys_updated_by>
+        <sys_updated_on>2020-09-29 07:14:44</sys_updated_on>
+        <value>7e25c3b3900810107f4468f7a3a96f2e</value>
+        <variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b2a57d211b2750108409fc86cc4bcb7c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>lars-ake.bolk</sys_created_by>
+        <sys_created_on>2020-09-29 07:14:44</sys_created_on>
+        <sys_id>dcc5fd211b2750108409fc86cc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>lars-ake.bolk</sys_updated_by>
+        <sys_updated_on>2020-09-29 07:14:44</sys_updated_on>
+        <value>x_cdltd_ccw1856_cicd_pipeline</value>
+        <variable display_value="">b124164e53a0220002c6435723dc34c5</variable>
+    </sys_variable_value>
+</record_update>
